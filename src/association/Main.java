@@ -6,6 +6,7 @@ public class Main {
 		Lion lionEsther = new Lion("Esther");
 		
 		lionEsther.printName();
+		lionEsther.playWithBal();
 	}
 
 }
